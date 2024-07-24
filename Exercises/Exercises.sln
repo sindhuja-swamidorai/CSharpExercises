@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMe", "HelloMe\HelloMe.csproj", "{5AA4C846-D707-45FF-99A6-0CC04F5263F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Math", "Delegate_Math\Delegate_Math.csproj", "{89BF6D27-62E5-4961-B38E-0D49C433E552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQandObjects", "LINQandObjects\LINQandObjects.csproj", "{7BB305C0-CDFD-4936-A439-27D27AB75964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0D0F04-3B28-4BBB-AAA9-AEE78D529724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0D0F04-3B28-4BBB-AAA9-AEE78D529724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0D0F04-3B28-4BBB-AAA9-AEE78D529724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0D0F04-3B28-4BBB-AAA9-AEE78D529724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA4C846-D707-45FF-99A6-0CC04F5263F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA4C846-D707-45FF-99A6-0CC04F5263F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA4C846-D707-45FF-99A6-0CC04F5263F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA4C846-D707-45FF-99A6-0CC04F5263F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BF6D27-62E5-4961-B38E-0D49C433E552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BF6D27-62E5-4961-B38E-0D49C433E552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BF6D27-62E5-4961-B38E-0D49C433E552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BF6D27-62E5-4961-B38E-0D49C433E552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB305C0-CDFD-4936-A439-27D27AB75964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB305C0-CDFD-4936-A439-27D27AB75964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB305C0-CDFD-4936-A439-27D27AB75964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB305C0-CDFD-4936-A439-27D27AB75964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
